@@ -22,6 +22,8 @@ Aplicação.
 
   - [Execução do Projeto](#execução-do-projeto)
 
+  - [Execução dos Testes de Projeto](#execução-dos-testes-de-projeto)
+
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -40,8 +42,16 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga a Execução de Projeto.
 
+### Execução dos Testes de Projeto
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga a Execução de Testes de Projeto.
+
 ## Utilizados no Projeto
 
 ### Bibliotecas
 
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
+
+- [Enzyme](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme.md)
+
+- [enzyme-adapter-react-16](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme-adapter-react-16.md)
