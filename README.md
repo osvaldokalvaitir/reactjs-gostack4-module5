@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação.
+Aplicação usando Enzyme, Redux and Redux Mock Store.
 
 ## Índice
 
@@ -55,3 +55,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Enzyme](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme.md)
 
 - [enzyme-adapter-react-16](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme-adapter-react-16.md)
+
+- [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
+
+- [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
+
+- [redux-mock-store](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-mock-store.md)
