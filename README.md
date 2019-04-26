@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Enzyme, Redux and Redux Mock Store.
+Aplicação usando Enzyme, Redux, Redux Mock Store and Redux-Saga.
 
 ## Índice
 
@@ -50,6 +50,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Bibliotecas
 
+- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
+
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
 
 - [Enzyme](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme.md)
@@ -61,3 +63,5 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
 
 - [redux-mock-store](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-mock-store.md)
+
+- [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
