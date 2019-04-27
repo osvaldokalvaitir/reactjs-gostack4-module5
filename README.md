@@ -14,8 +14,6 @@ Testes Automatizados usando Enzyme, Redux, Redux-Saga, Redux Mock Store e Axios 
 
 ## Índice
 
-- [Capturas de Tela](#capturas-de-tela)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -27,10 +25,6 @@ Testes Automatizados usando Enzyme, Redux, Redux-Saga, Redux Mock Store e Axios 
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
-
-## Capturas de Tela
-
-Este projeto é somente para execução de testes automatizados, então, não contém nenhuma tela de exibição.
 
 ## Desenvolvimento
 
