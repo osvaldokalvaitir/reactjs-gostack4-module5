@@ -1,63 +1,57 @@
-# ReactJS - Módulo 5
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-modulo5/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-modulo5.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-modulo5.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-modulo5.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-modulo5.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-modulo5.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-modulo5.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - GoStack 4 Module 5
+</h3>
 
-Testes Automatizados usando Enzyme, Redux, Redux-Saga, Redux Mock Store e Axios Mock Adapter.
+<p align="center">
+  🧪 Automated Testing using Enzyme, Redux, Redux-Saga, Redux Mock Store and Axios Mock Adapter
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-gostack4-module5.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-gostack4-module5.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-## Desenvolvimento
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-gostack4-module5
 
-### Configuração do Ambiente
+# Entry in folder
+cd reactjs-gostack4-module5
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Install deps with npm or yarn
+npm install | yarn
 
-### Instalação do Projeto
+# Run tests
+npm test | yarn test
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Testes de Projeto`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [axios-mock-adapter](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios-mock-adapter.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [Enzyme](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme.md)
-
-- [enzyme-adapter-react-16](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/enzyme-adapter-react-16.md)
-
-- [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
-
-- [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
-
-- [redux-mock-store](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-mock-store.md)
-
-- [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
