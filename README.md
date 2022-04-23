@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  🧪 Automated Testing using Enzyme, Redux, Redux-Saga, Redux Mock Store and Axios Mock Adapter
+  :test_tube: Automated Testing using Enzyme, Redux, Redux-Saga, Redux Mock Store and Axios Mock Adapter
 </p>
 
 <p align="center">
